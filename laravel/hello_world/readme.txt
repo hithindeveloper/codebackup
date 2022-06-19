@@ -1,0 +1,1 @@
+put this to routes folder of your laravel project
